@@ -40,9 +40,9 @@ This project develops a Probability of Default (PD) model to predict the likelih
   - Macroeconomic variables (e.g., GDP growth).
 - **Model Equation**:
 
-  \[
+  $$
   \text{Logit}(PD) = \beta_0 + \beta_1 \cdot X_1 + \beta_2 \cdot X_2 + \dots + \beta_n \cdot X_n
-  \]
+  $$
 
 ### 3. Threshold Optimization
 
